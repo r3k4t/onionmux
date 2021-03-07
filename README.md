@@ -16,16 +16,16 @@ OnionMux is a darknet tool.Its build on python program.It can help to check Onio
 
 ### [Setup] ###
 
-+pip install -r requirements.txt
-+apt install tor
++ pip install -r requirements.txt
++ apt install tor
 
 ### Tor Network Command(Start) ###
 
-+tor
++ tor
 
 ### Tor Network Command(Stop) ###
 
-+Press Ctrl+C
++ Press Ctrl+C
 
 
 ### Screentshots ###
