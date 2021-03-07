@@ -2,7 +2,7 @@
 [![OS](https://img.shields.io/badge/Tested%20On-Android-yellowgreen.svg)](https://termux.com/)
 
 
- <h2>OnionMux</h2>
+# OnionMux
 
 
 ![PSX_20210307_203121](https://user-images.githubusercontent.com/69615463/110243402-69a89a80-7f84-11eb-8bb3-7a568b6a6b25.jpg)
