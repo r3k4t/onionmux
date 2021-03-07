@@ -1,5 +1,4 @@
 [![python](https://img.shields.io/badge/Program-Python-brightgreen.svg)](https://www.python.org/downloads/release/python/)
-
 [![OS](https://img.shields.io/badge/Tested%20On-Android-yellowgreen.svg)](https://termux.com/)
 
 
