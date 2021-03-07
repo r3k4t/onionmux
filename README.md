@@ -1,4 +1,4 @@
-[![python](https://img.shields.io/badge/python-brightgreen.svg)](https://www.python.org/downloads/release/python/)
+[![python](https://img.shields.io/badge/Program-Python-brightgreen.svg)](https://www.python.org/downloads/release/python/)
 
 [![OS](https://img.shields.io/badge/Tested%20On-Android-yellowgreen.svg)](https://termux.com/)
 
@@ -14,7 +14,7 @@
 OnionMux is a darknet tool.Its build on python program.It can help to check Onion/Darknet site is active or inactive.It is a termux app tool.
 
 
-### [Setup] ###
+### Setup ###
 
 + pip install -r requirements.txt
 + apt install tor
