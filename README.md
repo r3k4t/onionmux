@@ -26,9 +26,13 @@ OnionMux is a darknet tool.Its build on python program.It can help to check Onio
 
 + Press Ctrl+C
 
+### Terminal Command ###
+
++ git clone https://github.com/r3k4t/onionmux.git
++ cd onionmux
++ python onionmux.py
 
 ### Screentshots ###
-
 
 ![Screenshot_2021-03-07-17-39-17-224_com termux](https://user-images.githubusercontent.com/69615463/110238634-f182aa80-7f6c-11eb-8f4c-c1e2622afd8d.jpg)
 
